@@ -72,3 +72,5 @@ for number in [1, 2, 3, 4, 5, 6]:
 # 4. Create a loop that skips the number 3 using continue, and stops when a value reaches 10 using break.
 # 5. Explain why indentation is required in Python control flow statements.
 # 6. Challenge: Use a nested if inside a for loop to print only numbers greater than 5 from the range 1 to 10.
+
+# assignment 1
