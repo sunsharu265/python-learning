@@ -9,7 +9,7 @@
 
 
 def great(supermarket_KS):
-    print(f'Welcome to {supermarket_KS}:we are happyto help you to find your products')
+    print(f'Welcome to {supermarket_KS}:we are happy to help you to find your products')
 
     MENU =[
         {"item":"1KG rice","price": 500},

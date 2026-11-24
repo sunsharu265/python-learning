@@ -49,7 +49,7 @@ def get_customer_order():
 
 
 def generate_bill(order_items):
-    total_a  mount = 0
+    total_amount = 0
     print("\n--- Bill ---")
 
     for item in order_items:

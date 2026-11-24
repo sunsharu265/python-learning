@@ -101,11 +101,10 @@ print("Perimeter of room:", room.perimeter())
 # ---------------------------------------------------------------
 # COMMON MISTAKES
 # ---------------------------------------------------------------
-# 1. Forgetting self in the method:      def introduce():        -> error
+# 1. Forgetting self in the method:
 # 2. Forgetting self. before the name:   print(name)             -> error
 # 3. Writing _init_ with ONE underscore: it will never run.
 # 4. Forgetting the values:              Student()               -> error
-
 
 # ===============================================================
 # PRACTICE ASSIGNMENTS
@@ -113,7 +112,7 @@ print("Perimeter of room:", room.perimeter())
 # 1. Create a class "Book" with title, author and price in __init__.
 #    Add a method show_details() that prints all three.
 #    Create 2 books and call show_details() on both.
-#
+
 # 2. Create a class "Circle" with radius. Add methods area() and
 #    circumference() that RETURN the values (use pi = 3.14159).
 #
@@ -128,4 +127,3 @@ print("Perimeter of room:", room.perimeter())
 # 5. Create a class "Student" with name and three marks
 #    (tamil, english, maths). Add methods total(), average() and
 #    result() which returns "Pass" if every mark is 35 or more,
-#    otherwise "Fail".
